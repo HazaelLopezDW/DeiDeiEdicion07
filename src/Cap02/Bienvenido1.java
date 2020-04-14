@@ -1,4 +1,4 @@
-package Cap01; // Fig. 2.1: Bienvenido1.java
+package Cap02; // Fig. 2.1: Bienvenido1.java
 // Programa para imprimir texto.
 
 public class Bienvenido1 {

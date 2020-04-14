@@ -1,4 +1,4 @@
-package Cap01;// Fig. 2.3: Bienvenido2.java
+package Cap02;// Fig. 2.3: Bienvenido2.java
 // Imprimir una línea de texto con varias instrucciones.
 
 public class Bienvenido2 {
